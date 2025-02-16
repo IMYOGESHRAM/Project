@@ -1,6 +1,7 @@
 
 **YOGESHRAM R** 
-    CONTACT :   ryogeshram2003@gmail.com | +91 8838004180 | www.linkedin.com/in/yogeshramr
+            CONTACT :   ryogeshram2003@gmail.com | +91 8838004180 | www.linkedin.com/in/yogeshramr
+    
 **CAREER OBJECTIVE**
 Electronics and Communication Engineering graduate with strong skills in SQL, Core Java, and Manual testing. Proficient in database
 management, software development, and programming tools like Python and MATLAB. Aspiring to contribute my technical expertise and
