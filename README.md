@@ -44,9 +44,9 @@ Proficient in Microsoft Word, Excel, and PowerPoint, with strong working knowled
 Good presentation skills, Works well in a team, Good written and verbal skills, Critical Thinking, Prominent listener, Team Management and Organization set to goals.
 
 **PROJECTS**
-IoT based smart agricultural monitoring system Designed for monitoring soil moisture, Atmospheric temperature & Humidity and the moisture level of agricultural field is maintained by water motor and can control by the Blynk application using ESP8266 microcontroller.
-IoT Blood Pulse Monitoring System (IBPMS) Designed for monitor patient’s blood pulse remotely and store the data in Thing Speak website using Arduino and ESP-01 module.
-Line Follower Bot and Obstacle Detection Bot using ESP8266 and there are controlled by Blynk mobile application.
+ - IoT based smart agricultural monitoring system Designed for monitoring soil moisture, Atmospheric temperature & Humidity and the moisture level of agricultural field is maintained by water motor and can control by the Blynk application using ESP8266 microcontroller.
+ - IoT Blood Pulse Monitoring System (IBPMS) Designed for monitor patient’s blood pulse remotely and store the data in Thing Speak website using Arduino and ESP-01 module.
+ - Line Follower Bot and Obstacle Detection Bot using ESP8266 and there are controlled by Blynk mobile application.
 
 **CO-CURRICULAR ACTIVITIES**
 NSS volunteer - Organizing health check-ups, blood donation camps, and awareness programs on health and hygiene.
