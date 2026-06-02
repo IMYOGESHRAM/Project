@@ -3,32 +3,30 @@
             CONTACT :   ryogeshram2003@gmail.com | +91 8838004180 | www.linkedin.com/in/yogeshramr
     
 **CAREER OBJECTIVE**
-Electronics and Communication Engineering graduate with strong skills in SQL, Core Java, and Manual testing. Proficient in database
-management, software development, and programming tools like Python and MATLAB. Aspiring to contribute my technical expertise and
-problem-solving abilities to drive innovation and organizational success.
+Electronics and Communication Engineering graduate with strong skills in SQL, Core Java, and Manual testing. Proficient in database management, software development, and programming tools like Python and MATLAB. Aspiring to contribute my technical expertise and problem-solving abilities to drive innovation and organizational success.
 
 **TECHNICAL SKILLS**
 
-=>SQL
+ - SQL
  Extensive experience in performing CRUD operations.
  Proficient in writing SQL queries, with a solid grasp of grouping, functions, and both simple and correlated subqueries.
  In-depth knowledge of various SQL joins such as Cartesian Join, Inner Join, Outer Join, Self-Join, and Natural Join.
  Familiarity with DDL, DML, DCL, and TCL operations.
 
-=>JAVA
+ - JAVA
  Proficient in Core Java concepts such as OOP (Object-Oriented Programming): inheritance, polymorphism, abstraction, and encapsulation.
  Strong understanding of Java Collections Framework (List, Set, Map) and their use cases.
  Hands-on experience in Exception Handling, multithreading, and synchronization for building efficient, high-performance applications.
  Familiar with Java Servlets, JSP, JDBC for database connectivity and SQL integration and RESTful API development.
  Proficient in Unit Testing with JUnit and TestNG, and working knowledge of Version Control Systems like Git.
 
-=>MANUAL TESTING
+ - MANUAL TESTING
  Good Knowledge on SDLC & STLC Concepts.
  Solid grasp of White box Testing & Black Box Testing.
  Strong understanding of bug life cycle.
  Thorough knowledge on writing Test Scenarios & Test Cases
 
-=>API TESTING:
+ - API TESTING:
  Hands on experience in API testing using Postman.
  Good knowledge on Http Methods, JSON, XML & writing API test cases.
  Validated different status codes like 200, 201, 400, 402, 403, 404, 415, 500 etc.
